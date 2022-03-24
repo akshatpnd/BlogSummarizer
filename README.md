@@ -10,7 +10,7 @@ HuggingFace provides various transformers that allow one to provide it with a ch
 Coming back to this project, the only thing that I can think of would be to create a small GUI that would make the UX more streamlined and appealing. Additionally, it would also eliminate the need for the summary to be stored (unless the user wants it to be stored).
 
 ## Demo
-Initial Blog ![Link](https://hackernoon.com/what-good-is-a-metaverse-in-which-you-do-not-truly-own-your-assets)
+Initial Blog [Link](https://hackernoon.com/what-good-is-a-metaverse-in-which-you-do-not-truly-own-your-assets)
 
 Summarized Blog:
 
